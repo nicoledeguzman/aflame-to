@@ -2655,8 +2655,7 @@ hr {
   height: 100%;
   width: 100%;
   color: var(--color-body-text);
-  background-color: var(--color-body);
-  background-size: cover; }
+  background-color: #FF9016}
 
 .password-form-message {
   max-width: 500px;
